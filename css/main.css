@@ -1,0 +1,36 @@
+.boton{
+	background-color: #888;
+	width: 90px;
+	height: 30px;
+	border-radius: 12px;
+}
+.oscuro{
+	background-color: rgb(60, 60, 60);
+}
+.bajo{
+	margin-bottom: 07px;
+}
+.arriba{
+	margin-top: 40px;
+}
+li{
+	display: inline-block;
+	margin-right: 5px;
+}
+.foto{
+	width: 600px;
+	height: 350px;
+}
+.bg-white{
+	background-color: white;
+}
+.paja{
+	width: 60px;
+	height: 60px;
+}
+.botros{
+	background-color: #FF33CC;
+	width: 90px;
+	height: 30px;
+	border-radius: 12px;
+}
